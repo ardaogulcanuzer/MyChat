@@ -1,0 +1,3 @@
+*.ruby linguist-detectable=false
+*.dart linguist-detectable=true
+*.ruby linguist-detectable=false
